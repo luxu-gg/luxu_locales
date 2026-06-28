@@ -1054,6 +1054,7 @@
   "log_action_deleted_note": "eliminou a nota #{id}",
   "log_action_deleted_vehicle": "eliminou o veículo #{id}",
   "log_action_deleted_vehicles": "eliminou veículos: {ids}",
+  "log_action_deleted_entities": "eliminou entidades: {ids}",
   "log_action_deleted_zone": "eliminou a zona #{id}",
   "log_action_exploded": "causou uma explosão",
   "log_action_flipped_vehicle": "endireitou o veículo",
@@ -1190,5 +1191,8 @@
   "total_society_balance": "Saldo Total da Sociedade",
   "update_available": "Atualização disponível",
   "view_items": "Ver itens",
-  "weapon": "Arma"
+  "weapon": "Arma",
+  "done": "Concluído",
+  "message_markdown": "Mensagem (suporta **negrito**, *itálico*, `código`, ligações)",
+  "perm_self_delete_entities": "Eliminar Entidades para Si"
 }

@@ -1054,6 +1054,7 @@
   "log_action_deleted_note": "メモ #{id} を削除しました",
   "log_action_deleted_vehicle": "車両 #{id} を削除しました",
   "log_action_deleted_vehicles": "車両を削除しました: {ids}",
+  "log_action_deleted_entities": "エンティティを削除しました: {ids}",
   "log_action_deleted_zone": "ゾーン #{id} を削除しました",
   "log_action_exploded": "爆発を起こしました",
   "log_action_flipped_vehicle": "車両を起こしました",
@@ -1190,5 +1191,8 @@
   "total_society_balance": "組織の合計残高",
   "update_available": "アップデートがあります",
   "view_items": "アイテムを表示",
-  "weapon": "武器"
+  "weapon": "武器",
+  "done": "完了",
+  "message_markdown": "メッセージ（**太字**、*斜体*、`コード`、リンクに対応）",
+  "perm_self_delete_entities": "自分用エンティティを削除"
 }

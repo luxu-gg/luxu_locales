@@ -1054,6 +1054,7 @@
   "log_action_deleted_note": "slettede note #{id}",
   "log_action_deleted_vehicle": "slettede køretøj #{id}",
   "log_action_deleted_vehicles": "slettede køretøjer: {ids}",
+  "log_action_deleted_entities": "slettede enheder: {ids}",
   "log_action_deleted_zone": "slettede zone #{id}",
   "log_action_exploded": "forårsagede eksplosion",
   "log_action_flipped_vehicle": "vendte køretøj om",
@@ -1190,5 +1191,8 @@
   "total_society_balance": "Samlet selskabssaldo",
   "update_available": "Opdatering tilgængelig",
   "view_items": "Vis genstande",
-  "weapon": "Våben"
+  "weapon": "Våben",
+  "done": "Færdig",
+  "message_markdown": "Besked (understøtter **fed**, *kursiv*, `kode`, links)",
+  "perm_self_delete_entities": "Slet enheder for sig selv"
 }

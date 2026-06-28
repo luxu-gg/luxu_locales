@@ -1054,6 +1054,7 @@
   "log_action_deleted_note": "usunął notatkę #{id}",
   "log_action_deleted_vehicle": "usunął pojazd #{id}",
   "log_action_deleted_vehicles": "usunął pojazdy: {ids}",
+  "log_action_deleted_entities": "usunął encje: {ids}",
   "log_action_deleted_zone": "usunął strefę #{id}",
   "log_action_exploded": "spowodował eksplozję",
   "log_action_flipped_vehicle": "postawił pojazd",
@@ -1190,5 +1191,8 @@
   "total_society_balance": "Łączne saldo organizacji",
   "update_available": "Aktualizacja dostępna",
   "view_items": "Zobacz przedmioty",
-  "weapon": "Broń"
+  "weapon": "Broń",
+  "done": "Gotowe",
+  "message_markdown": "Wiadomość (obsługuje **pogrubienie**, *kursywę*, `kod`, linki)",
+  "perm_self_delete_entities": "Usuń encje dla siebie"
 }

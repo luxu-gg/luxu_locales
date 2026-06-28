@@ -1054,6 +1054,7 @@
   "log_action_deleted_note": "hat Notiz Nr.{id} gelöscht",
   "log_action_deleted_vehicle": "hat Fahrzeug Nr.{id} gelöscht",
   "log_action_deleted_vehicles": "hat Fahrzeuge gelöscht: {ids}",
+  "log_action_deleted_entities": "hat Entitäten gelöscht: {ids}",
   "log_action_deleted_zone": "hat Zone Nr.{id} gelöscht",
   "log_action_exploded": "hat Explosion verursacht",
   "log_action_flipped_vehicle": "hat Fahrzeug umgedreht",
@@ -1190,5 +1191,8 @@
   "total_society_balance": "Gesamter Gesellschaftskontostand",
   "update_available": "Aktualisierung verfügbar",
   "view_items": "Gegenstände anzeigen",
-  "weapon": "Waffe"
+  "weapon": "Waffe",
+  "done": "Fertig",
+  "message_markdown": "Nachricht (unterstützt **fett**, *kursiv*, `Code`, Links)",
+  "perm_self_delete_entities": "Entitäten für sich selbst löschen"
 }

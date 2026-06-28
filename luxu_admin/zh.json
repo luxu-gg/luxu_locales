@@ -1054,6 +1054,7 @@
   "log_action_deleted_note": "删除了笔记 #{id}",
   "log_action_deleted_vehicle": "删除了载具 #{id}",
   "log_action_deleted_vehicles": "删除了载具: {ids}",
+  "log_action_deleted_entities": "删除了实体: {ids}",
   "log_action_deleted_zone": "删除了区域 #{id}",
   "log_action_exploded": "引发了爆炸",
   "log_action_flipped_vehicle": "翻转了载具",
@@ -1190,5 +1191,8 @@
   "total_society_balance": "组织总余额",
   "update_available": "有可用更新",
   "view_items": "查看物品",
-  "weapon": "武器"
+  "weapon": "武器",
+  "done": "完成",
+  "message_markdown": "消息（支持 **粗体**、*斜体*、`代码`、链接）",
+  "perm_self_delete_entities": "为自己删除实体"
 }

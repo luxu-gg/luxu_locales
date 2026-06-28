@@ -308,6 +308,7 @@
   "member_deleted_successfully": "Member deleted successfully",
   "member_updated_successfully": "Member updated successfully",
   "message": "Message",
+  "message_markdown": "Message (supports **bold**, *italic*, `code`, links)",
   "minute": "minute",
   "minutes": "minutes",
   "miscellaneous_player_actions": "Miscellaneous Player Actions",
@@ -1055,6 +1056,7 @@
   "log_action_deleted_note": "deleted note #{id}",
   "log_action_deleted_vehicle": "deleted vehicle #{id}",
   "log_action_deleted_vehicles": "deleted vehicles: {ids}",
+  "log_action_deleted_entities": "deleted entities: {ids}",
   "log_action_deleted_zone": "deleted zone #{id}",
   "log_action_exploded": "caused explosion",
   "log_action_flipped_vehicle": "flipped vehicle",
@@ -1190,5 +1192,7 @@
   "current_balance": "Current Balance",
   "edit_balance": "Edit Balance",
   "perm_society_manage_balance": "Society: Manage Balance",
-  "perm_society_view_balance": "Society: View Balance"
+  "perm_society_view_balance": "Society: View Balance",
+  "done": "Done",
+  "perm_self_delete_entities": "Delete Entities for Self"
 }
