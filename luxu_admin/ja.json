@@ -1194,5 +1194,6 @@
   "weapon": "武器",
   "done": "完了",
   "message_markdown": "メッセージ（**太字**、*斜体*、`コード`、リンクに対応）",
-  "perm_self_delete_entities": "自分用エンティティを削除"
+  "perm_self_delete_entities": "自分用エンティティを削除",
+  "search_for_a_vehicle_by_plate": "REPLACE_ME"
 }

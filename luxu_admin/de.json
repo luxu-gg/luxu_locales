@@ -1194,5 +1194,6 @@
   "weapon": "Waffe",
   "done": "Fertig",
   "message_markdown": "Nachricht (unterstützt **fett**, *kursiv*, `Code`, Links)",
-  "perm_self_delete_entities": "Entitäten für sich selbst löschen"
+  "perm_self_delete_entities": "Entitäten für sich selbst löschen",
+  "search_for_a_vehicle_by_plate": "REPLACE_ME"
 }

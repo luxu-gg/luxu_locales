@@ -1194,5 +1194,6 @@
   "weapon": "Broń",
   "done": "Gotowe",
   "message_markdown": "Wiadomość (obsługuje **pogrubienie**, *kursywę*, `kod`, linki)",
-  "perm_self_delete_entities": "Usuń encje dla siebie"
+  "perm_self_delete_entities": "Usuń encje dla siebie",
+  "search_for_a_vehicle_by_plate": "REPLACE_ME"
 }

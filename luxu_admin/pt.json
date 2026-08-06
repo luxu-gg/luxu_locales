@@ -1194,5 +1194,6 @@
   "weapon": "Arma",
   "done": "Concluído",
   "message_markdown": "Mensagem (suporta **negrito**, *itálico*, `código`, ligações)",
-  "perm_self_delete_entities": "Eliminar Entidades para Si"
+  "perm_self_delete_entities": "Eliminar Entidades para Si",
+  "search_for_a_vehicle_by_plate": "REPLACE_ME"
 }
