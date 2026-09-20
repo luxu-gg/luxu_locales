@@ -1340,5 +1340,14 @@
   "log_action_queue_move_down": "moveu {name} para baixo na fila de conexão",
   "log_action_queue_remove": "removeu {name} da fila de conexão (motivo: {reason})",
   "log_action_queue_card_saved": "guardou o cartão de apresentação da fila (revisão {revision}, {bytes} bytes)",
-  "log_action_queue_card_reloaded": "recarregou o cartão de apresentação da fila a partir do disco"
+  "log_action_queue_card_reloaded": "recarregou o cartão de apresentação da fila a partir do disco",
+  "jail_sentence_complete": "Sentença de prisão concluída",
+  "claim_confiscated_items": "Reclamar itens confiscados",
+  "confirm_discard_items": "Confirmar descarte de itens",
+  "discard": "Descartar",
+  "no_confiscated_items_to_claim": "Não tem itens confiscados para reclamar",
+  "cannot_claim_items_while_jailed": "Não pode reclamar itens enquanto estiver preso",
+  "confiscated_items_claimed": "Os seus itens confiscados foram devolvidos",
+  "confiscated_items_discarded": "Os seus itens confiscados foram descartados",
+  "failed_to_return_confiscated_items": "Falha ao devolver alguns itens confiscados. Use {command} para tentar novamente"
 }

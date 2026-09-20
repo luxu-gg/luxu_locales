@@ -1340,5 +1340,14 @@
   "log_action_queue_move_down": "将 {name} 在连接队列中下移",
   "log_action_queue_remove": "将 {name} 从连接队列中移除（原因：{reason}）",
   "log_action_queue_card_saved": "保存了队列展示卡片（版本 {revision}，{bytes} 字节）",
-  "log_action_queue_card_reloaded": "从磁盘重新加载了队列展示卡片"
+  "log_action_queue_card_reloaded": "从磁盘重新加载了队列展示卡片",
+  "jail_sentence_complete": "监禁刑罚已结束",
+  "claim_confiscated_items": "领取被没收的物品",
+  "confirm_discard_items": "确认丢弃物品",
+  "discard": "丢弃",
+  "no_confiscated_items_to_claim": "您没有可领取的被没收物品",
+  "cannot_claim_items_while_jailed": "监禁期间无法领取物品",
+  "confiscated_items_claimed": "您被没收的物品已归还",
+  "confiscated_items_discarded": "您被没收的物品已被丢弃",
+  "failed_to_return_confiscated_items": "部分被没收物品归还失败。请使用 {command} 重试"
 }

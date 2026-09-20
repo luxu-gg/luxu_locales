@@ -1340,5 +1340,14 @@
   "log_action_queue_move_down": "movió a {name} hacia abajo en la cola de conexión",
   "log_action_queue_remove": "eliminó a {name} de la cola de conexión (motivo: {reason})",
   "log_action_queue_card_saved": "guardó la tarjeta de presentación de la cola (revisión {revision}, {bytes} bytes)",
-  "log_action_queue_card_reloaded": "recargó la tarjeta de presentación de la cola desde el disco"
+  "log_action_queue_card_reloaded": "recargó la tarjeta de presentación de la cola desde el disco",
+  "jail_sentence_complete": "Sentencia de cárcel completada",
+  "claim_confiscated_items": "Reclamar ítems confiscados",
+  "confirm_discard_items": "Confirmar descarte de ítems",
+  "discard": "Descartar",
+  "no_confiscated_items_to_claim": "No tienes ítems confiscados para reclamar",
+  "cannot_claim_items_while_jailed": "No puedes reclamar ítems mientras estás encarcelado",
+  "confiscated_items_claimed": "Tus ítems confiscados han sido devueltos",
+  "confiscated_items_discarded": "Tus ítems confiscados han sido descartados",
+  "failed_to_return_confiscated_items": "No se pudieron devolver algunos ítems confiscados. Usa {command} para intentarlo de nuevo"
 }

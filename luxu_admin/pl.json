@@ -1340,5 +1340,14 @@
   "log_action_queue_move_down": "przeniósł {name} w dół w kolejce połączeń",
   "log_action_queue_remove": "usunął {name} z kolejki połączeń (powód: {reason})",
   "log_action_queue_card_saved": "zapisał kartę prezentacyjną kolejki (rewizja {revision}, {bytes} bajtów)",
-  "log_action_queue_card_reloaded": "przeładował kartę prezentacyjną kolejki z dysku"
+  "log_action_queue_card_reloaded": "przeładował kartę prezentacyjną kolejki z dysku",
+  "jail_sentence_complete": "Wyrok więzienia zakończony",
+  "claim_confiscated_items": "Odbierz skonfiskowane przedmioty",
+  "confirm_discard_items": "Potwierdź odrzucenie przedmiotów",
+  "discard": "Odrzuć",
+  "no_confiscated_items_to_claim": "Nie masz skonfiskowanych przedmiotów do odebrania",
+  "cannot_claim_items_while_jailed": "Nie możesz odebrać przedmiotów podczas pobytu w więzieniu",
+  "confiscated_items_claimed": "Twoje skonfiskowane przedmioty zostały zwrócone",
+  "confiscated_items_discarded": "Twoje skonfiskowane przedmioty zostały odrzucone",
+  "failed_to_return_confiscated_items": "Nie udało się zwrócić niektórych skonfiskowanych przedmiotów. Użyj {command}, aby spróbować ponownie"
 }
