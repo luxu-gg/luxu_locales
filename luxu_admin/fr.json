@@ -887,6 +887,7 @@
   "search_permissions": "Rechercher Permissions",
   "search_permissions_placeholder": "Rechercher par nom ou label de permission...",
   "search_resources": "Rechercher des ressources",
+  "search_type": "Type de recherche",
   "searching_players_is_very_easy": "Rechercher des joueurs est très simple",
   "seat_in_my_vehicle": "S'asseoir dans mon véhicule",
   "seat_in_players_vehicle": "S'asseoir dans le véhicule du joueur",
@@ -1339,5 +1340,14 @@
   "log_action_queue_move_down": "a déplacé {name} vers le bas dans la file de connexion",
   "log_action_queue_remove": "a retiré {name} de la file de connexion (motif : {reason})",
   "log_action_queue_card_saved": "a enregistré la carte de présentation de la file (révision {revision}, {bytes} octets)",
-  "log_action_queue_card_reloaded": "a rechargé la carte de présentation de la file depuis le disque"
+  "log_action_queue_card_reloaded": "a rechargé la carte de présentation de la file depuis le disque",
+  "jail_sentence_complete": "Peine de prison terminée",
+  "claim_confiscated_items": "Récupérer les objets confisqués",
+  "confirm_discard_items": "Confirmer le rejet des objets",
+  "discard": "Jeter",
+  "no_confiscated_items_to_claim": "Vous n'avez aucun objet confisqué à récupérer",
+  "cannot_claim_items_while_jailed": "Vous ne pouvez pas récupérer d'objets pendant votre emprisonnement",
+  "confiscated_items_claimed": "Vos objets confisqués ont été restitués",
+  "confiscated_items_discarded": "Vos objets confisqués ont été jetés",
+  "failed_to_return_confiscated_items": "Échec de la restitution de certains objets confisqués. Utilisez {command} pour réessayer"
 }

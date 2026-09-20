@@ -427,6 +427,7 @@
   "search_for_locations": "Nach Standorten suchen",
   "search_for_players_currently_in_the_server": "Nach aktuell auf dem Server befindlichen Spielern suchen",
   "search_resources": "Ressourcen suchen",
+  "search_type": "Suchtyp",
   "searching_players_is_very_easy": "Spieler suchen ist sehr einfach",
   "seat_in_my_vehicle": "In mein Fahrzeug setzen",
   "seat_in_players_vehicle": "In das Fahrzeug des Spielers setzen",
@@ -1339,5 +1340,14 @@
   "log_action_queue_move_down": "hat {name} in der Verbindungswarteschlange nach unten verschoben",
   "log_action_queue_remove": "hat {name} aus der Verbindungswarteschlange entfernt (Grund: {reason})",
   "log_action_queue_card_saved": "hat die Present-Card der Warteschlange gespeichert (Revision {revision}, {bytes} Bytes)",
-  "log_action_queue_card_reloaded": "hat die Present-Card der Warteschlange von der Festplatte neu geladen"
+  "log_action_queue_card_reloaded": "hat die Present-Card der Warteschlange von der Festplatte neu geladen",
+  "jail_sentence_complete": "Haftstrafe beendet",
+  "claim_confiscated_items": "Beschlagnahmte Gegenstände abholen",
+  "confirm_discard_items": "Entsorgen der Gegenstände bestätigen",
+  "discard": "Entsorgen",
+  "no_confiscated_items_to_claim": "Du hast keine beschlagnahmten Gegenstände zum Abholen",
+  "cannot_claim_items_while_jailed": "Du kannst keine Gegenstände abholen, während du inhaftiert bist",
+  "confiscated_items_claimed": "Deine beschlagnahmten Gegenstände wurden zurückgegeben",
+  "confiscated_items_discarded": "Deine beschlagnahmten Gegenstände wurden entsorgt",
+  "failed_to_return_confiscated_items": "Einige beschlagnahmte Gegenstände konnten nicht zurückgegeben werden. Nutze {command}, um es erneut zu versuchen"
 }

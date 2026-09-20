@@ -427,6 +427,7 @@
   "search_for_locations": "Søg efter placeringer",
   "search_for_players_currently_in_the_server": "Søg efter spillere, der for øjeblikket er på serveren",
   "search_resources": "Søg ressourcer",
+  "search_type": "Søgetype",
   "searching_players_is_very_easy": "At søge efter spillere er meget nemt",
   "seat_in_my_vehicle": "Sæt i mit køretøj",
   "seat_in_players_vehicle": "Sæt i spillerens køretøj",
@@ -1339,5 +1340,14 @@
   "log_action_queue_move_down": "flyttede {name} ned i forbindelseskøen",
   "log_action_queue_remove": "fjernede {name} fra forbindelseskøen (årsag: {reason})",
   "log_action_queue_card_saved": "gemte køens præsentationskort (revision {revision}, {bytes} bytes)",
-  "log_action_queue_card_reloaded": "genindlæste køens præsentationskort fra disken"
+  "log_action_queue_card_reloaded": "genindlæste køens præsentationskort fra disken",
+  "jail_sentence_complete": "Fængselsstraf afsluttet",
+  "claim_confiscated_items": "Hent konfiskerede genstande",
+  "confirm_discard_items": "Bekræft kassering af genstande",
+  "discard": "Kasser",
+  "no_confiscated_items_to_claim": "Du har ingen konfiskerede genstande at hente",
+  "cannot_claim_items_while_jailed": "Du kan ikke hente genstande, mens du er fængslet",
+  "confiscated_items_claimed": "Dine konfiskerede genstande er blevet returneret",
+  "confiscated_items_discarded": "Dine konfiskerede genstande er blevet kasseret",
+  "failed_to_return_confiscated_items": "Nogle konfiskerede genstande kunne ikke returneres. Brug {command} for at prøve igen"
 }

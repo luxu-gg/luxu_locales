@@ -433,6 +433,7 @@
   "search_for_locations": "Helyszínek keresése",
   "search_for_players_currently_in_the_server": "Jelenlegi szerveren lévő játékosok keresése",
   "search_resources": "Erőforrások keresése",
+  "search_type": "Keresés típusa",
   "searching_players_is_very_easy": "A játékosok keresése nagyon egyszerű",
   "seat_in_my_vehicle": "Beülés az én járművembe",
   "seat_in_players_vehicle": "Beülés a játékos járművébe",
@@ -1339,5 +1340,14 @@
   "log_action_queue_move_down": "lejjebb mozgatta {name} játékost a csatlakozási várólistán",
   "log_action_queue_remove": "eltávolította {name} játékost a csatlakozási várólistáról (indok: {reason})",
   "log_action_queue_card_saved": "mentette a várólista prezentációs kártyáját ({revision}. revízió, {bytes} bájt)",
-  "log_action_queue_card_reloaded": "újratöltötte a várólista prezentációs kártyáját a lemezről"
+  "log_action_queue_card_reloaded": "újratöltötte a várólista prezentációs kártyáját a lemezről",
+  "jail_sentence_complete": "Börtönbüntetés letöltve",
+  "claim_confiscated_items": "Elkobzott tárgyak átvétele",
+  "confirm_discard_items": "Tárgyak eldobásának megerősítése",
+  "discard": "Eldobás",
+  "no_confiscated_items_to_claim": "Nincs átvehető elkobzott tárgyad",
+  "cannot_claim_items_while_jailed": "Nem vehetsz át tárgyakat, amíg börtönben vagy",
+  "confiscated_items_claimed": "Az elkobzott tárgyaidat visszaadtuk",
+  "confiscated_items_discarded": "Az elkobzott tárgyaidat eldobtuk",
+  "failed_to_return_confiscated_items": "Néhány elkobzott tárgyat nem sikerült visszaadni. Próbáld újra a {command} paranccsal"
 }

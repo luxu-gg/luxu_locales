@@ -419,6 +419,7 @@
   "search_for_locations": "場所を検索",
   "search_for_players_currently_in_the_server": "サーバー内のプレイヤーを検索",
   "search_resources": "リソースを検索",
+  "search_type": "検索タイプ",
   "searching_players_is_very_easy": "プレイヤーの検索はとても簡単です",
   "seat_in_my_vehicle": "私の車両に乗る",
   "seat_in_players_vehicle": "プレイヤーの車両に乗る",
@@ -1339,5 +1340,14 @@
   "log_action_queue_move_down": "接続キュー内で {name} を下に移動しました",
   "log_action_queue_remove": "接続キューから {name} を削除しました（理由：{reason}）",
   "log_action_queue_card_saved": "キューのプレゼントカードを保存しました（リビジョン {revision}、{bytes} バイト）",
-  "log_action_queue_card_reloaded": "キューのプレゼントカードをディスクから再読み込みしました"
+  "log_action_queue_card_reloaded": "キューのプレゼントカードをディスクから再読み込みしました",
+  "jail_sentence_complete": "投獄刑が終了しました",
+  "claim_confiscated_items": "没収アイテムを受け取る",
+  "confirm_discard_items": "アイテム破棄の確認",
+  "discard": "破棄",
+  "no_confiscated_items_to_claim": "受け取れる没収アイテムはありません",
+  "cannot_claim_items_while_jailed": "投獄中はアイテムを受け取れません",
+  "confiscated_items_claimed": "没収されたアイテムが返却されました",
+  "confiscated_items_discarded": "没収されたアイテムは破棄されました",
+  "failed_to_return_confiscated_items": "一部の没収アイテムを返却できませんでした。{command} でもう一度お試しください"
 }

@@ -437,6 +437,7 @@
   "search_for_locations": "Search for locations",
   "search_for_players_currently_in_the_server": "Search for players currently in the server",
   "search_resources": "Search Resources",
+  "search_type": "Search Type",
   "searching_players_is_very_easy": "Searching players is very easy",
   "seat_in_my_vehicle": "Seat in my vehicle",
   "seat_in_players_vehicle": "Seat in player's vehicle",
@@ -1339,5 +1340,14 @@
   "log_action_queue_move_down": "moved {name} down in the connection queue",
   "log_action_queue_remove": "removed {name} from the connection queue (reason: {reason})",
   "log_action_queue_card_saved": "saved the queue present card (revision {revision}, {bytes} bytes)",
-  "log_action_queue_card_reloaded": "reloaded the queue present card from disk"
+  "log_action_queue_card_reloaded": "reloaded the queue present card from disk",
+  "jail_sentence_complete": "Jail Sentence Complete",
+  "claim_confiscated_items": "Claim confiscated items",
+  "confirm_discard_items": "Confirm discard items",
+  "discard": "Discard",
+  "no_confiscated_items_to_claim": "You have no confiscated items to claim",
+  "cannot_claim_items_while_jailed": "You cannot claim items while jailed",
+  "confiscated_items_claimed": "Your confiscated items have been returned",
+  "confiscated_items_discarded": "Your confiscated items have been discarded",
+  "failed_to_return_confiscated_items": "Failed to return some confiscated items. Use {command} to try again"
 }
