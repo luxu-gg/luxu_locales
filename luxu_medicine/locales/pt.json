@@ -1113,6 +1113,8 @@
   "laboratory_bloodwork_complete": "Análises concluídas. O paciente tem %s.",
   "laboratory_bloodwork_none": "Análises concluídas. Nenhuma doença detetada.",
   "laboratory_blood_exam_failed": "Exame de sangue falhou",
+  "laboratory_only_bosses_create": "Apenas chefes podem criar laboratórios.",
+  "laboratory_created": "Laboratório criado com sucesso",
   "laboratory_updated": "Laboratório atualizado com sucesso",
   "laboratory_only_bosses_update": "Apenas chefes podem atualizar laboratórios.",
   "laboratory_only_bosses_delete": "Apenas chefes podem eliminar laboratórios.",

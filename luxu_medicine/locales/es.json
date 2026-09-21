@@ -1113,6 +1113,8 @@
   "laboratory_bloodwork_complete": "Análisis de sangre completo. El paciente tiene %s.",
   "laboratory_bloodwork_none": "Análisis de sangre completo. No se detectó ninguna enfermedad.",
   "laboratory_blood_exam_failed": "El examen de sangre falló",
+  "laboratory_only_bosses_create": "Solo los jefes pueden crear laboratorios.",
+  "laboratory_created": "Laboratorio creado con éxito",
   "laboratory_updated": "Laboratorio actualizado con éxito",
   "laboratory_only_bosses_update": "Solo los jefes pueden actualizar laboratorios.",
   "laboratory_only_bosses_delete": "Solo los jefes pueden eliminar laboratorios.",

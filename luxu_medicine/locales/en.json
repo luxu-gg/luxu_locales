@@ -1113,6 +1113,8 @@
   "laboratory_bloodwork_complete": "Bloodwork complete. The patient has %s.",
   "laboratory_bloodwork_none": "Bloodwork complete. No disease detected.",
   "laboratory_blood_exam_failed": "Blood examination failed",
+  "laboratory_only_bosses_create": "Only bosses can create laboratories.",
+  "laboratory_created": "Laboratory created successfully",
   "laboratory_updated": "Laboratory updated successfully",
   "laboratory_only_bosses_update": "Only bosses can update laboratories.",
   "laboratory_only_bosses_delete": "Only bosses can delete laboratories.",
