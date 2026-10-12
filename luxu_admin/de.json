@@ -1522,5 +1522,7 @@
   "go_to_dashboard": "Zum Dashboard",
   "owner_group_always_has_full_permissions": "Diese Gruppe hat immer volle Berechtigungen",
   "action_failed": "Aktion fehlgeschlagen. Bitte versuche es erneut.",
-  "per_page": "pro Seite"
+  "per_page": "pro Seite",
+  "language": "Sprache",
+  "server_default": "Server-Standard"
 }

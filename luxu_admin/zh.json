@@ -1522,5 +1522,7 @@
   "go_to_dashboard": "前往仪表板",
   "owner_group_always_has_full_permissions": "此组将始终拥有全部权限",
   "action_failed": "操作失败，请重试。",
-  "per_page": "每页"
+  "per_page": "每页",
+  "language": "语言",
+  "server_default": "服务器默认"
 }

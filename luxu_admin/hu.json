@@ -1522,5 +1522,7 @@
   "go_to_dashboard": "Ugrás a vezérlőpultra",
   "owner_group_always_has_full_permissions": "Ez a csoport mindig teljes jogosultsággal fog rendelkezni",
   "action_failed": "A művelet sikertelen. Kérlek, próbáld újra.",
-  "per_page": "oldalanként"
+  "per_page": "oldalanként",
+  "language": "Nyelv",
+  "server_default": "Szerver alapértelmezése"
 }

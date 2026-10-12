@@ -1522,5 +1522,7 @@
   "go_to_dashboard": "Aller au tableau de bord",
   "owner_group_always_has_full_permissions": "Ce groupe aura toujours toutes les permissions",
   "action_failed": "L'action a échoué. Veuillez réessayer.",
-  "per_page": "par page"
+  "per_page": "par page",
+  "language": "Langue",
+  "server_default": "Par défaut du serveur"
 }

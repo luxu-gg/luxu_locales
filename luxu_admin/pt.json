@@ -1522,5 +1522,7 @@
   "go_to_dashboard": "Ir para o painel",
   "owner_group_always_has_full_permissions": "Este grupo terá sempre todas as permissões",
   "action_failed": "A ação falhou. Tenta novamente.",
-  "per_page": "por página"
+  "per_page": "por página",
+  "language": "Idioma",
+  "server_default": "Predefinição do servidor"
 }

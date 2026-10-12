@@ -1522,5 +1522,7 @@
   "go_to_dashboard": "Gå til dashboard",
   "owner_group_always_has_full_permissions": "Denne gruppe vil altid have fulde rettigheder",
   "action_failed": "Handlingen mislykkedes. Prøv igen.",
-  "per_page": "pr. side"
+  "per_page": "pr. side",
+  "language": "Sprog",
+  "server_default": "Serverens standard"
 }

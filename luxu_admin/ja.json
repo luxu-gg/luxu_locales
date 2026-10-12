@@ -1522,5 +1522,7 @@
   "go_to_dashboard": "ダッシュボードへ",
   "owner_group_always_has_full_permissions": "このグループには常にすべての権限があります",
   "action_failed": "操作に失敗しました。もう一度お試しください。",
-  "per_page": "ページあたり"
+  "per_page": "ページあたり",
+  "language": "言語",
+  "server_default": "サーバーの既定"
 }

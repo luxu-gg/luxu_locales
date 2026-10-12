@@ -1522,5 +1522,7 @@
   "go_to_dashboard": "Go to dashboard",
   "owner_group_always_has_full_permissions": "This group will always have full permissions",
   "action_failed": "Action failed. Please try again.",
-  "per_page": "per page"
+  "per_page": "per page",
+  "language": "Language",
+  "server_default": "Server default"
 }
