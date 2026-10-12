@@ -1349,5 +1349,9 @@
   "cannot_claim_items_while_jailed": "No puedes reclamar ítems mientras estás encarcelado",
   "confiscated_items_claimed": "Tus ítems confiscados han sido devueltos",
   "confiscated_items_discarded": "Tus ítems confiscados han sido descartados",
-  "failed_to_return_confiscated_items": "No se pudieron devolver algunos ítems confiscados. Usa {command} para intentarlo de nuevo"
+  "failed_to_return_confiscated_items": "No se pudieron devolver algunos ítems confiscados. Usa {command} para intentarlo de nuevo",
+  "search_animations": "Buscar animaciones (p. ej. sit chair, smoke, dance)...",
+  "loading_animations": "Cargando animaciones...",
+  "no_animations_found": "No se encontraron animaciones",
+  "showing_animations_count": "Mostrando {shown} de {total} resultados"
 }

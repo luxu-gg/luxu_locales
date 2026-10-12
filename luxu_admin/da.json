@@ -1349,5 +1349,9 @@
   "cannot_claim_items_while_jailed": "Du kan ikke hente genstande, mens du er fængslet",
   "confiscated_items_claimed": "Dine konfiskerede genstande er blevet returneret",
   "confiscated_items_discarded": "Dine konfiskerede genstande er blevet kasseret",
-  "failed_to_return_confiscated_items": "Nogle konfiskerede genstande kunne ikke returneres. Brug {command} for at prøve igen"
+  "failed_to_return_confiscated_items": "Nogle konfiskerede genstande kunne ikke returneres. Brug {command} for at prøve igen",
+  "search_animations": "Søg efter animationer (f.eks. sit chair, smoke, dance)...",
+  "loading_animations": "Indlæser animationer...",
+  "no_animations_found": "Ingen animationer fundet",
+  "showing_animations_count": "Viser {shown} af {total} resultater"
 }

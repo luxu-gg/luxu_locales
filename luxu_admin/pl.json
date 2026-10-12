@@ -1349,5 +1349,9 @@
   "cannot_claim_items_while_jailed": "Nie możesz odebrać przedmiotów podczas pobytu w więzieniu",
   "confiscated_items_claimed": "Twoje skonfiskowane przedmioty zostały zwrócone",
   "confiscated_items_discarded": "Twoje skonfiskowane przedmioty zostały odrzucone",
-  "failed_to_return_confiscated_items": "Nie udało się zwrócić niektórych skonfiskowanych przedmiotów. Użyj {command}, aby spróbować ponownie"
+  "failed_to_return_confiscated_items": "Nie udało się zwrócić niektórych skonfiskowanych przedmiotów. Użyj {command}, aby spróbować ponownie",
+  "search_animations": "Szukaj animacji (np. sit chair, smoke, dance)...",
+  "loading_animations": "Ładowanie animacji...",
+  "no_animations_found": "Nie znaleziono animacji",
+  "showing_animations_count": "Wyświetlono {shown} z {total} wyników"
 }

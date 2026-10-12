@@ -1349,5 +1349,9 @@
   "cannot_claim_items_while_jailed": "Du kannst keine Gegenstände abholen, während du inhaftiert bist",
   "confiscated_items_claimed": "Deine beschlagnahmten Gegenstände wurden zurückgegeben",
   "confiscated_items_discarded": "Deine beschlagnahmten Gegenstände wurden entsorgt",
-  "failed_to_return_confiscated_items": "Einige beschlagnahmte Gegenstände konnten nicht zurückgegeben werden. Nutze {command}, um es erneut zu versuchen"
+  "failed_to_return_confiscated_items": "Einige beschlagnahmte Gegenstände konnten nicht zurückgegeben werden. Nutze {command}, um es erneut zu versuchen",
+  "search_animations": "Animationen suchen (z. B. sit chair, smoke, dance)...",
+  "loading_animations": "Animationen werden geladen...",
+  "no_animations_found": "Keine Animationen gefunden",
+  "showing_animations_count": "{shown} von {total} Treffern angezeigt"
 }

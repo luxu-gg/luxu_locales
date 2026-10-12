@@ -1349,5 +1349,9 @@
   "cannot_claim_items_while_jailed": "Nem vehetsz át tárgyakat, amíg börtönben vagy",
   "confiscated_items_claimed": "Az elkobzott tárgyaidat visszaadtuk",
   "confiscated_items_discarded": "Az elkobzott tárgyaidat eldobtuk",
-  "failed_to_return_confiscated_items": "Néhány elkobzott tárgyat nem sikerült visszaadni. Próbáld újra a {command} paranccsal"
+  "failed_to_return_confiscated_items": "Néhány elkobzott tárgyat nem sikerült visszaadni. Próbáld újra a {command} paranccsal",
+  "search_animations": "Animációk keresése (pl. sit chair, smoke, dance)...",
+  "loading_animations": "Animációk betöltése...",
+  "no_animations_found": "Nem található animáció",
+  "showing_animations_count": "{shown} / {total} találat megjelenítve"
 }

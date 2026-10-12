@@ -1349,5 +1349,9 @@
   "cannot_claim_items_while_jailed": "Vous ne pouvez pas récupérer d'objets pendant votre emprisonnement",
   "confiscated_items_claimed": "Vos objets confisqués ont été restitués",
   "confiscated_items_discarded": "Vos objets confisqués ont été jetés",
-  "failed_to_return_confiscated_items": "Échec de la restitution de certains objets confisqués. Utilisez {command} pour réessayer"
+  "failed_to_return_confiscated_items": "Échec de la restitution de certains objets confisqués. Utilisez {command} pour réessayer",
+  "search_animations": "Rechercher des animations (ex. sit chair, smoke, dance)...",
+  "loading_animations": "Chargement des animations...",
+  "no_animations_found": "Aucune animation trouvée",
+  "showing_animations_count": "{shown} sur {total} résultats affichés"
 }

@@ -1349,5 +1349,9 @@
   "cannot_claim_items_while_jailed": "监禁期间无法领取物品",
   "confiscated_items_claimed": "您被没收的物品已归还",
   "confiscated_items_discarded": "您被没收的物品已被丢弃",
-  "failed_to_return_confiscated_items": "部分被没收物品归还失败。请使用 {command} 重试"
+  "failed_to_return_confiscated_items": "部分被没收物品归还失败。请使用 {command} 重试",
+  "search_animations": "搜索动画 (例如 sit chair, smoke, dance)...",
+  "loading_animations": "正在加载动画...",
+  "no_animations_found": "未找到动画",
+  "showing_animations_count": "显示 {total} 个结果中的 {shown} 个"
 }

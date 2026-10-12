@@ -1349,5 +1349,9 @@
   "cannot_claim_items_while_jailed": "You cannot claim items while jailed",
   "confiscated_items_claimed": "Your confiscated items have been returned",
   "confiscated_items_discarded": "Your confiscated items have been discarded",
-  "failed_to_return_confiscated_items": "Failed to return some confiscated items. Use {command} to try again"
+  "failed_to_return_confiscated_items": "Failed to return some confiscated items. Use {command} to try again",
+  "search_animations": "Search animations (e.g. sit chair, smoke, dance)...",
+  "loading_animations": "Loading animations...",
+  "no_animations_found": "No animations found",
+  "showing_animations_count": "Showing {shown} of {total} matches"
 }
