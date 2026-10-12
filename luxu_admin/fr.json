@@ -1349,5 +1349,17 @@
   "cannot_claim_items_while_jailed": "Vous ne pouvez pas récupérer d'objets pendant votre emprisonnement",
   "confiscated_items_claimed": "Vos objets confisqués ont été restitués",
   "confiscated_items_discarded": "Vos objets confisqués ont été jetés",
-  "failed_to_return_confiscated_items": "Échec de la restitution de certains objets confisqués. Utilisez {command} pour réessayer"
+  "failed_to_return_confiscated_items": "Échec de la restitution de certains objets confisqués. Utilisez {command} pour réessayer",
+  "trunk": "Coffre",
+  "glovebox": "Boîte à gants",
+  "manage_stash_items": "Voir, ajouter et retirer des objets de ce stockage",
+  "add_item": "Ajouter un objet",
+  "item_added": "Objet ajouté.",
+  "failed_to_add_item": "Échec de l'ajout de l'objet.",
+  "item_removed": "Objet retiré.",
+  "failed_to_remove_item": "Échec du retrait de l'objet.",
+  "stash_editing_not_supported": "Votre système d'inventaire ne permet pas d'ajouter ou de retirer des objets dans ce stockage. Les objets peuvent seulement être consultés.",
+  "log_action_stash_added_item": "a ajouté {item} x{amount} à {stash} {id}",
+  "log_action_stash_removed_item": "a retiré {item} x{amount} (slot {slot}) de {stash} {id}",
+  "stash": "Stockage"
 }

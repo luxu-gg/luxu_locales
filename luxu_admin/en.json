@@ -1349,5 +1349,17 @@
   "cannot_claim_items_while_jailed": "You cannot claim items while jailed",
   "confiscated_items_claimed": "Your confiscated items have been returned",
   "confiscated_items_discarded": "Your confiscated items have been discarded",
-  "failed_to_return_confiscated_items": "Failed to return some confiscated items. Use {command} to try again"
+  "failed_to_return_confiscated_items": "Failed to return some confiscated items. Use {command} to try again",
+  "trunk": "Trunk",
+  "glovebox": "Glovebox",
+  "manage_stash_items": "View, add and remove items in this stash",
+  "add_item": "Add Item",
+  "item_added": "Item added.",
+  "failed_to_add_item": "Failed to add item.",
+  "item_removed": "Item removed.",
+  "failed_to_remove_item": "Failed to remove item.",
+  "stash_editing_not_supported": "Your inventory system does not support adding or removing items in this stash. Items can only be viewed.",
+  "log_action_stash_added_item": "added {item} x{amount} to {stash} {id}",
+  "log_action_stash_removed_item": "removed {item} x{amount} (slot {slot}) from {stash} {id}",
+  "stash": "Stash"
 }

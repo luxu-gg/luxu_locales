@@ -1349,5 +1349,17 @@
   "cannot_claim_items_while_jailed": "投獄中はアイテムを受け取れません",
   "confiscated_items_claimed": "没収されたアイテムが返却されました",
   "confiscated_items_discarded": "没収されたアイテムは破棄されました",
-  "failed_to_return_confiscated_items": "一部の没収アイテムを返却できませんでした。{command} でもう一度お試しください"
+  "failed_to_return_confiscated_items": "一部の没収アイテムを返却できませんでした。{command} でもう一度お試しください",
+  "trunk": "トランク",
+  "glovebox": "グローブボックス",
+  "manage_stash_items": "このストレージのアイテムを表示・追加・削除",
+  "add_item": "アイテムを追加",
+  "item_added": "アイテムを追加しました。",
+  "failed_to_add_item": "アイテムの追加に失敗しました。",
+  "item_removed": "アイテムを削除しました。",
+  "failed_to_remove_item": "アイテムの削除に失敗しました。",
+  "stash_editing_not_supported": "お使いのインベントリシステムは、このストレージへのアイテムの追加・削除に対応していません。アイテムは閲覧のみ可能です。",
+  "log_action_stash_added_item": "{stash} {id} に {item} x{amount} を追加しました",
+  "log_action_stash_removed_item": "{stash} {id} から {item} x{amount}（スロット {slot}）を削除しました",
+  "stash": "ストレージ"
 }

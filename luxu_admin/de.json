@@ -1349,5 +1349,17 @@
   "cannot_claim_items_while_jailed": "Du kannst keine Gegenstände abholen, während du inhaftiert bist",
   "confiscated_items_claimed": "Deine beschlagnahmten Gegenstände wurden zurückgegeben",
   "confiscated_items_discarded": "Deine beschlagnahmten Gegenstände wurden entsorgt",
-  "failed_to_return_confiscated_items": "Einige beschlagnahmte Gegenstände konnten nicht zurückgegeben werden. Nutze {command}, um es erneut zu versuchen"
+  "failed_to_return_confiscated_items": "Einige beschlagnahmte Gegenstände konnten nicht zurückgegeben werden. Nutze {command}, um es erneut zu versuchen",
+  "trunk": "Kofferraum",
+  "glovebox": "Handschuhfach",
+  "manage_stash_items": "Gegenstände in diesem Lager ansehen, hinzufügen und entfernen",
+  "add_item": "Gegenstand hinzufügen",
+  "item_added": "Gegenstand hinzugefügt.",
+  "failed_to_add_item": "Gegenstand konnte nicht hinzugefügt werden.",
+  "item_removed": "Gegenstand entfernt.",
+  "failed_to_remove_item": "Gegenstand konnte nicht entfernt werden.",
+  "stash_editing_not_supported": "Dein Inventarsystem unterstützt das Hinzufügen oder Entfernen von Gegenständen in diesem Lager nicht. Gegenstände können nur angesehen werden.",
+  "log_action_stash_added_item": "hat {item} x{amount} zu {stash} {id} hinzugefügt",
+  "log_action_stash_removed_item": "hat {item} x{amount} (Slot {slot}) aus {stash} {id} entfernt",
+  "stash": "Lager"
 }

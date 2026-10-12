@@ -1349,5 +1349,17 @@
   "cannot_claim_items_while_jailed": "Nem vehetsz át tárgyakat, amíg börtönben vagy",
   "confiscated_items_claimed": "Az elkobzott tárgyaidat visszaadtuk",
   "confiscated_items_discarded": "Az elkobzott tárgyaidat eldobtuk",
-  "failed_to_return_confiscated_items": "Néhány elkobzott tárgyat nem sikerült visszaadni. Próbáld újra a {command} paranccsal"
+  "failed_to_return_confiscated_items": "Néhány elkobzott tárgyat nem sikerült visszaadni. Próbáld újra a {command} paranccsal",
+  "trunk": "Csomagtartó",
+  "glovebox": "Kesztyűtartó",
+  "manage_stash_items": "Tárgyak megtekintése, hozzáadása és eltávolítása ebben a tárolóban",
+  "add_item": "Tárgy hozzáadása",
+  "item_added": "Tárgy hozzáadva.",
+  "failed_to_add_item": "Nem sikerült hozzáadni a tárgyat.",
+  "item_removed": "Tárgy eltávolítva.",
+  "failed_to_remove_item": "Nem sikerült eltávolítani a tárgyat.",
+  "stash_editing_not_supported": "Az inventory rendszered nem támogatja tárgyak hozzáadását vagy eltávolítását ebben a tárolóban. A tárgyak csak megtekinthetők.",
+  "log_action_stash_added_item": "hozzáadott {item} x{amount} tárgyat ide: {stash} {id}",
+  "log_action_stash_removed_item": "eltávolított {item} x{amount} (slot {slot}) tárgyat innen: {stash} {id}",
+  "stash": "Tároló"
 }

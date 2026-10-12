@@ -1349,5 +1349,17 @@
   "cannot_claim_items_while_jailed": "No puedes reclamar ítems mientras estás encarcelado",
   "confiscated_items_claimed": "Tus ítems confiscados han sido devueltos",
   "confiscated_items_discarded": "Tus ítems confiscados han sido descartados",
-  "failed_to_return_confiscated_items": "No se pudieron devolver algunos ítems confiscados. Usa {command} para intentarlo de nuevo"
+  "failed_to_return_confiscated_items": "No se pudieron devolver algunos ítems confiscados. Usa {command} para intentarlo de nuevo",
+  "trunk": "Maletero",
+  "glovebox": "Guantera",
+  "manage_stash_items": "Ver, añadir y quitar objetos de este almacenamiento",
+  "add_item": "Añadir Objeto",
+  "item_added": "Objeto añadido.",
+  "failed_to_add_item": "Error al añadir el objeto.",
+  "item_removed": "Objeto eliminado.",
+  "failed_to_remove_item": "Error al eliminar el objeto.",
+  "stash_editing_not_supported": "Tu sistema de inventario no permite añadir o quitar objetos en este almacenamiento. Los objetos solo se pueden ver.",
+  "log_action_stash_added_item": "añadió {item} x{amount} a {stash} {id}",
+  "log_action_stash_removed_item": "eliminó {item} x{amount} (slot {slot}) de {stash} {id}",
+  "stash": "Almacenamiento"
 }

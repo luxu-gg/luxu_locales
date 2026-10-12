@@ -1349,5 +1349,17 @@
   "cannot_claim_items_while_jailed": "监禁期间无法领取物品",
   "confiscated_items_claimed": "您被没收的物品已归还",
   "confiscated_items_discarded": "您被没收的物品已被丢弃",
-  "failed_to_return_confiscated_items": "部分被没收物品归还失败。请使用 {command} 重试"
+  "failed_to_return_confiscated_items": "部分被没收物品归还失败。请使用 {command} 重试",
+  "trunk": "后备箱",
+  "glovebox": "手套箱",
+  "manage_stash_items": "查看、添加和移除此储物箱中的物品",
+  "add_item": "添加物品",
+  "item_added": "物品已添加。",
+  "failed_to_add_item": "添加物品失败。",
+  "item_removed": "物品已移除。",
+  "failed_to_remove_item": "移除物品失败。",
+  "stash_editing_not_supported": "你的背包系统不支持在此储物箱中添加或移除物品，物品只能查看。",
+  "log_action_stash_added_item": "向 {stash} {id} 添加了 {item} x{amount}",
+  "log_action_stash_removed_item": "从 {stash} {id} 移除了 {item} x{amount}（槽位 {slot}）",
+  "stash": "储物箱"
 }

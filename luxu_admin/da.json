@@ -1349,5 +1349,17 @@
   "cannot_claim_items_while_jailed": "Du kan ikke hente genstande, mens du er fængslet",
   "confiscated_items_claimed": "Dine konfiskerede genstande er blevet returneret",
   "confiscated_items_discarded": "Dine konfiskerede genstande er blevet kasseret",
-  "failed_to_return_confiscated_items": "Nogle konfiskerede genstande kunne ikke returneres. Brug {command} for at prøve igen"
+  "failed_to_return_confiscated_items": "Nogle konfiskerede genstande kunne ikke returneres. Brug {command} for at prøve igen",
+  "trunk": "Bagagerum",
+  "glovebox": "Handskerum",
+  "manage_stash_items": "Se, tilføj og fjern genstande i dette lager",
+  "add_item": "Tilføj genstand",
+  "item_added": "Genstand tilføjet.",
+  "failed_to_add_item": "Kunne ikke tilføje genstand.",
+  "item_removed": "Genstand fjernet.",
+  "failed_to_remove_item": "Kunne ikke fjerne genstand.",
+  "stash_editing_not_supported": "Dit inventarsystem understøtter ikke at tilføje eller fjerne genstande i dette lager. Genstande kan kun ses.",
+  "log_action_stash_added_item": "tilføjede {item} x{amount} til {stash} {id}",
+  "log_action_stash_removed_item": "fjernede {item} x{amount} (slot {slot}) fra {stash} {id}",
+  "stash": "Lager"
 }

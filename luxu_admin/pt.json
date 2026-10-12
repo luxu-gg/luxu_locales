@@ -1349,5 +1349,17 @@
   "cannot_claim_items_while_jailed": "Não pode reclamar itens enquanto estiver preso",
   "confiscated_items_claimed": "Os seus itens confiscados foram devolvidos",
   "confiscated_items_discarded": "Os seus itens confiscados foram descartados",
-  "failed_to_return_confiscated_items": "Falha ao devolver alguns itens confiscados. Use {command} para tentar novamente"
+  "failed_to_return_confiscated_items": "Falha ao devolver alguns itens confiscados. Use {command} para tentar novamente",
+  "trunk": "Porta-malas",
+  "glovebox": "Porta-luvas",
+  "manage_stash_items": "Ver, adicionar e remover itens deste armazenamento",
+  "add_item": "Adicionar Item",
+  "item_added": "Item adicionado.",
+  "failed_to_add_item": "Falha ao adicionar item.",
+  "item_removed": "Item removido.",
+  "failed_to_remove_item": "Falha ao remover item.",
+  "stash_editing_not_supported": "O seu sistema de inventário não suporta adicionar ou remover itens neste armazenamento. Os itens só podem ser visualizados.",
+  "log_action_stash_added_item": "adicionou {item} x{amount} a {stash} {id}",
+  "log_action_stash_removed_item": "removeu {item} x{amount} (slot {slot}) de {stash} {id}",
+  "stash": "Armazenamento"
 }

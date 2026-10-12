@@ -1349,5 +1349,17 @@
   "cannot_claim_items_while_jailed": "Nie możesz odebrać przedmiotów podczas pobytu w więzieniu",
   "confiscated_items_claimed": "Twoje skonfiskowane przedmioty zostały zwrócone",
   "confiscated_items_discarded": "Twoje skonfiskowane przedmioty zostały odrzucone",
-  "failed_to_return_confiscated_items": "Nie udało się zwrócić niektórych skonfiskowanych przedmiotów. Użyj {command}, aby spróbować ponownie"
+  "failed_to_return_confiscated_items": "Nie udało się zwrócić niektórych skonfiskowanych przedmiotów. Użyj {command}, aby spróbować ponownie",
+  "trunk": "Bagażnik",
+  "glovebox": "Schowek na rękawiczki",
+  "manage_stash_items": "Przeglądaj, dodawaj i usuwaj przedmioty w tym schowku",
+  "add_item": "Dodaj przedmiot",
+  "item_added": "Przedmiot dodany.",
+  "failed_to_add_item": "Nie udało się dodać przedmiotu.",
+  "item_removed": "Przedmiot usunięty.",
+  "failed_to_remove_item": "Nie udało się usunąć przedmiotu.",
+  "stash_editing_not_supported": "Twój system ekwipunku nie obsługuje dodawania ani usuwania przedmiotów w tym schowku. Przedmioty można tylko przeglądać.",
+  "log_action_stash_added_item": "dodał {item} x{amount} do {stash} {id}",
+  "log_action_stash_removed_item": "usunął {item} x{amount} (slot {slot}) z {stash} {id}",
+  "stash": "Schowek"
 }
